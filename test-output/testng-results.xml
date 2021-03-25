@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-25T12:05:07Z" name="Suite" finished-at="2021-03-25T12:05:07Z" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2021-03-25T12:05:07Z" name="Test" finished-at="2021-03-25T12:05:07Z" duration-ms="43">
+      <class name="org.tst.ng.A">
+        <test-method signature="tc1()[pri:0, instance:org.tst.ng.A@327af41b]" started-at="2021-03-25T12:05:07Z" name="tc1" finished-at="2021-03-25T12:05:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:0, instance:org.tst.ng.A@327af41b]" started-at="2021-03-25T12:05:07Z" name="tc2" finished-at="2021-03-25T12:05:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc3()[pri:0, instance:org.tst.ng.A@327af41b]" started-at="2021-03-25T12:05:07Z" name="tc3" finished-at="2021-03-25T12:05:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.tst.ng.A -->
+      <class name="org.tst.ng.BasicDay1">
+        <test-method signature="tc1()[pri:0, instance:org.tst.ng.BasicDay1@6cb6decd]" started-at="2021-03-25T12:05:07Z" name="tc1" finished-at="2021-03-25T12:05:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:0, instance:org.tst.ng.BasicDay1@6cb6decd]" started-at="2021-03-25T12:05:07Z" name="tc2" finished-at="2021-03-25T12:05:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc3()[pri:0, instance:org.tst.ng.BasicDay1@6cb6decd]" started-at="2021-03-25T12:05:07Z" name="tc3" finished-at="2021-03-25T12:05:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method signature="tc5()[pri:0, instance:org.tst.ng.BasicDay1@6cb6decd]" started-at="2021-03-25T12:05:07Z" name="tc5" finished-at="2021-03-25T12:05:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+      </class> <!-- org.tst.ng.BasicDay1 -->
+      <class name="org.tst.ng.C">
+        <test-method signature="tc111()[pri:0, instance:org.tst.ng.C@45a4b042]" started-at="2021-03-25T12:05:07Z" name="tc111" finished-at="2021-03-25T12:05:07Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc111 -->
+        <test-method signature="tc222()[pri:0, instance:org.tst.ng.C@45a4b042]" started-at="2021-03-25T12:05:07Z" name="tc222" finished-at="2021-03-25T12:05:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc222 -->
+        <test-method signature="tc333()[pri:0, instance:org.tst.ng.C@45a4b042]" started-at="2021-03-25T12:05:07Z" name="tc333" finished-at="2021-03-25T12:05:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc333 -->
+      </class> <!-- org.tst.ng.C -->
+      <class name="org.tst.ng.B">
+        <test-method signature="tc11()[pri:0, instance:org.tst.ng.B@16b2bb0c]" started-at="2021-03-25T12:05:07Z" name="tc11" finished-at="2021-03-25T12:05:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc11 -->
+        <test-method signature="tc22()[pri:0, instance:org.tst.ng.B@16b2bb0c]" started-at="2021-03-25T12:05:07Z" name="tc22" finished-at="2021-03-25T12:05:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc22 -->
+        <test-method signature="tc33()[pri:0, instance:org.tst.ng.B@16b2bb0c]" started-at="2021-03-25T12:05:07Z" name="tc33" finished-at="2021-03-25T12:05:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc33 -->
+      </class> <!-- org.tst.ng.B -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
